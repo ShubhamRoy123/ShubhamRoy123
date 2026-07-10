@@ -18,7 +18,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roy388925)
 [![Google Dev](https://img.shields.io/badge/g.dev-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/roy388925)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shubhamroy123/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roy388925@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ShubhamRoy123&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)
