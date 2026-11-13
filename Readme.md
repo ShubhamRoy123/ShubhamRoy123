@@ -12,7 +12,7 @@
 
 ### Full-Stack Developer · DSA Enthusiast · Problem Solver
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications+%F0%9F%9A%80;MERN+Stack+%7C+Next.js+%7C+TypeScript;500%2B+LeetCode+problems+solved+%F0%9F%A7%A0;Always+learning%2C+always+shipping+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+Software+%F0%9F%9A%80;Full+Stack+%7C+C+++%7C+TypeScript;500%2B+LeetCode+problems+solved+%F0%9F%A7%A0;Always+learning%2C+always+shipping+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
